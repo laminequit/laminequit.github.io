@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://laminequit.github.io/sitemap
+Sitemap: https://laminequit.github.io/app/sitemap
+Sitemap: https://laminequit.github.io/assets/sitemap
+Sitemap: https://laminequit.github.io/css/sitemap
+Sitemap: https://laminequit.github.io/includes/sitemap
+Sitemap: https://laminequit.github.io/item/sitemap
+Sitemap: https://laminequit.github.io/src/sitemap
